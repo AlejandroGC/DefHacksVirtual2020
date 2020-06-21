@@ -39,3 +39,14 @@ img {
     margin-top: 20px;
     margin-bottom: 100px;
 }
+
+div .box {
+    display: block;
+    width: 30%;
+    margin-top: 20px;
+    max-width: 100px;
+}
+
+.nav-link {
+    text-decoration: none;
+}
